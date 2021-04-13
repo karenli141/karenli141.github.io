@@ -170,11 +170,19 @@ p {font-weight: 400; font-size: 22px;}
     font-size:100px;
     font-weight: bold;
     font-family: 'Trirong', serif;
-
-}
+    color: white;
+}   
 
 #blog {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+#blog_page {
+    background-color: black;
+}
+
+#blog_page a {
+    color: white;
 }
