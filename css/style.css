@@ -37,7 +37,7 @@ footer {margin: 0 auto; position: absolute; bottom: 0px; padding: 40px 0; width:
 .menu_container {
     width:100%;
 }
-.menu_container a {
+.menu_container a, .header_container a{
     font-family: 'Trirong', serif;
     font-size: 50px;
     color: white;
@@ -63,7 +63,7 @@ footer {margin: 0 auto; position: absolute; bottom: 0px; padding: 40px 0; width:
 .content_container {
     top: 0;
     left: 0;
-    padding-top: 100vh;
+    margin-top: 100vh;
     position: absolute;
     width: 100%;
     padding: 15px 2vw;
