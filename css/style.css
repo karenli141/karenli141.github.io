@@ -21,3 +21,29 @@ p {font-weight: 200; font-size: 20px;}
 
 footer .inline-list li {padding-right: 40px;}
 footer {margin: 0 auto; position: absolute; bottom: 0px; padding: 40px 0; width: 600px;}
+
+
+/* HEADER CSS */
+
+.menu_container {
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* HERO Container*/
+
+.hero_image_container {
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+
+    top: 0;
+    left: 0;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
