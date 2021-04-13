@@ -43,7 +43,7 @@ footer {margin: 0 auto; position: absolute; bottom: 0px; padding: 40px 0; width:
     font-family: 'Trirong', serif;
     font-size: 50px;
     color: white;
-    
+
 }
 
 /* HERO Container*/
@@ -63,6 +63,10 @@ footer {margin: 0 auto; position: absolute; bottom: 0px; padding: 40px 0; width:
 
 /* CONTENT CONTAINER MAIN*/
 .content_container {
+    top: 0;
+    left: 0;
     padding-top: 100vh;
     position: absolute;
+    width: 100%;
+    padding: 15px 2vw;
 }
