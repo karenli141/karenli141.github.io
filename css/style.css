@@ -69,10 +69,15 @@ p {font-weight: 400; font-size: 22px;}
     flex-wrap: wrap;
 }
 
-.gallery_item {
+.gallery_item_hover {
     margin-bottom: 20px;
     width: 45%;
     height: 500px;
+}
+
+.gallery_item {
+    width: 100%;
+    height: 100%;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
