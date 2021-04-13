@@ -83,8 +83,9 @@ footer {margin: 0 auto; position: absolute; bottom: 0px; padding: 40px 0; width:
 }
 
 .gallery_item {
+    margin-bottom: 20px;
     width: 45%;
-    height: 400px;
+    height: 500px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
