@@ -25,7 +25,6 @@ footer {margin: 0 auto; position: absolute; bottom: 0px; padding: 40px 0; width:
     z-index: 1000;
     position: relative;
 
-    width: 100%;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
