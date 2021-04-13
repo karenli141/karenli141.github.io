@@ -41,7 +41,7 @@ footer {margin: 0 auto; position: absolute; bottom: 0px; padding: 40px 0; width:
 .menu_container a {
     padding-left: 8px;
 }
-.name {
+.header_container a.name {
     font-size: 34px;
 }
 /* HERO Container*/
