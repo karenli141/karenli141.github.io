@@ -34,11 +34,13 @@ footer {margin: 0 auto; position: absolute; bottom: 0px; padding: 40px 0; width:
 
 .menu_container a, .header_container a{
     font-family: 'Trirong', serif;
-    font-size: 50px;
+    font-size: 28px;
     color: white;
 
 }
-
+.name {
+    font-size: 34px;
+}
 /* HERO Container*/
 
 .hero_image_container {
