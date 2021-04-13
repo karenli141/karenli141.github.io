@@ -33,10 +33,6 @@ footer {margin: 0 auto; position: absolute; bottom: 0px; padding: 40px 0; width:
     padding: 20px 2vw;
 }
 
-
-.menu_container {
-    width:100%;
-}
 .menu_container a, .header_container a{
     font-family: 'Trirong', serif;
     font-size: 50px;
