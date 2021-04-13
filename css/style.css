@@ -51,16 +51,21 @@ p {font-weight: 400; font-size: 22px;}
 }
 
 /* CONTENT CONTAINER MAIN*/
+.about_me {
+    width: 100%;
+    text-align: center;
+}
 .content_container {
     top: 0;
     left: 0;
     margin-top: 100vh;
     position: absolute;
-    padding: 15px 2vw;
+    width: 100%;
 }
 /* PORTFOLIO CONTAINER MAIN*/
 .portfolio_gallery {
     max-width: 1200px;
+    
     margin: 0 auto;
     display: flex;
     flex-direction: row;
